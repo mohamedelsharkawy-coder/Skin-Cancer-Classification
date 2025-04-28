@@ -1,12 +1,22 @@
 # Skin Cancer Classification 🩺🔬🌞
 
-![Skin Cancer Classification Demo](media/skin_cancer_classification.gif)
-
 ## 🌟 Project Overview
 
 Skin cancer is one of the most common types of cancer worldwide, and early detection can save lives ❤️.  
 The **Skin Cancer Classification** project aims to automatically classify skin lesions into different categories using deep learning 🤖.  
 This tool assists healthcare professionals and researchers by providing a second opinion and speeding up diagnosis.
+
+## 📸 Skin Lesion Examples
+
+<p align="center">
+  <img src="images/1.jpg" width="150"/>
+  <img src="images/2.jpg" width="150"/>
+  <img src="images/3.jpg" width="150"/>
+  <img src="images/4.jpg" width="150"/>
+  <img src="images/5.jpg" width="150"/>
+  <img src="images/6.jpg" width="150"/>
+  <img src="images/7.jpg" width="150"/>
+</p>
 
 ## 🚀 Project Pipeline
 
